@@ -1,6 +1,6 @@
 public class Hw12 {
 
-    public static void printInformationAboutBook(String name, Author author, int year){
+    public static void printInformationAboutBook(String name, Author author, int year) {
         System.out.println("Название книги: " + name);
         System.out.println("Автор: " + author);
         System.out.println("Год выпуска: " + year);
